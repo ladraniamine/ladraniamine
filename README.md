@@ -23,10 +23,10 @@
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 <br>- 👋 Hi, I’m @ladraniamine<br>
-<br>- 👀 I’m interested in web devlopment<br> 
-<br>- 🌱 I’m currently learning react actually i think im good in react and maybe i will move to next.js soon<br>
-<br>- 💞️ I’m looking to collaborate on ...<br>
-<br>- 📫 How to reach me => ladraniamine@gmail.com<br>
+- 👀 I’m interested in web devlopment<br> 
+- 🌱 I’m currently learning react actually i think im good in react and maybe i will move to next.js soon<br>
+- 💞️ I’m looking to collaborate on ...<br>
+- 📫 How to reach me => ladraniamine@gmail.com<br>
 
 <h2 align="left">:heart: Let's get connected:</h2>
 
