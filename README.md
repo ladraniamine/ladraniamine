@@ -22,7 +22,7 @@
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 <br>- 👋 Hi, I’m @ladraniamine<br>
 - 👀 I’m interested in web devlopment<br> 
-- 🌱 I’m currently learning react actually i think im good in react and maybe i will move to next.js soon<br>
+- 🌱 I’m currently learning react and node js then i will move to next.js soon<br>
 - 💞️ I’m looking to collaborate on ...<br>
 - 📫 How to reach me => ladraniamine@gmail.com<br>
 
